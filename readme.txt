@@ -1,0 +1,1 @@
+Hello all! This is my first Javascript game. I hope you will enjoy it soon.
